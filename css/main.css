@@ -39,17 +39,16 @@ header {
 	margin-top: 25%;
 }
 .offer_title {
-	font-size: 26px;
-	color: #000;
+	color: #B0AD7B;
 }
 .offer_text {
-	font-size: 16px;
+	font-size: 18px;
 	margin-top: 3%;
-	color: #000;
+	color: #B0AD7B;
 }
 .phone_pick {
 	display: block;
-	margin: 10% auto 0;
+	margin: 5% auto 0;
 	width: 55%;
 }
 
@@ -73,6 +72,20 @@ header {
 	height: 100%;
 }
 
+/* Footer ************************************************************************************************************************ */
+.footer {
+	background: #555134;
+	padding-bottom: 0.5%;
+	padding-top: 2%;
+}
+.name {
+	margin-left: 1%;
+	font-size: 16px;
+	color: #B0AD7B;
+}
+.name span {
+	margin-left: 1%;
+}
 
 /*
 Extra small <576px	.col-
