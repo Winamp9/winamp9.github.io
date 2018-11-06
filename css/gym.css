@@ -148,7 +148,7 @@ Extra large ≥1200px .col-lg-
 	}
 	.game-screen {
 		margin-top: 3%;
-		width: 60%;
+		width: 80%;
 	}
 	.apple-store-img {
 		width: 34%;
@@ -169,6 +169,9 @@ Extra large ≥1200px .col-lg-
 	}
 	.game-screen {
 		margin-top: 3%;
+		width: 60%;
+	}
+	.gym-screen {
 		width: 60%;
 	}
 	.apple-store-img {
