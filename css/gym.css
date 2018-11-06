@@ -146,6 +146,10 @@ Extra large ≥1200px .col-lg-
 	.gym_pick {
 		margin-top: 3%;
 	}
+	.game-screen {
+		margin-top: 3%;
+		width: 60%;
+	}
 	.apple-store-img {
 		width: 34%;
 	}
