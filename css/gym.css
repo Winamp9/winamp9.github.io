@@ -49,6 +49,7 @@ html, body {
 .img_logo {
 	display: block;
 	width: 50%;
+	margin-left: -5%;
 }
 .menu_item {
 	margin: 3% 8% 0;
@@ -83,13 +84,13 @@ html, body {
 }
 .apple-store-img {
 	display: block;
-	width: 15%;
-	margin: auto 2%;
+	width: 17%;
+	margin: auto 5%;
 }
 .google-store-img {
 	display: block;
-	width: 16.3%;
-	margin: auto 2%;
+	width: 18.5%;
+	margin: auto 5%;
 }
 
 /* Section Game ******************************************************************************************************************* */
@@ -151,10 +152,10 @@ Extra large ≥1200px .col-lg-
 		width: 80%;
 	}
 	.apple-store-img {
-		width: 34%;
+		width: 38%;
 	}
 	.google-store-img {
-		width: 36%;
+		width: 40%;
 	}
 }
 @media screen and (min-width: 576px) and (max-width: 767px) {
@@ -175,10 +176,10 @@ Extra large ≥1200px .col-lg-
 		width: 60%;
 	}
 	.apple-store-img {
-		width: 30%;
+		width: 33%;
 	}
 	.google-store-img {
-		width: 32%;
+		width: 35%;
 	}
 }
 @media screen and (min-width: 768px) and (max-width: 991px) {
@@ -193,10 +194,10 @@ Extra large ≥1200px .col-lg-
 		width: 80%;
 	}
 	.apple-store-img {
-		width: 22%;
+		width: 25%;
 	}
 	.google-store-img {
-		width: 23.5%;
+		width: 27%;
 	}
 }
 @media screen and (min-width: 992px) and (max-width: 1199px) {
@@ -205,8 +206,8 @@ Extra large ≥1200px .col-lg-
 		width: 100%;
 	}
 	.apple-store-img {
-		width: 17%;
+		width: 19%;
 	}
 	.google-store-img {
-		width: 18.3%;
+		width: 20.5%;
 }
