@@ -24,6 +24,9 @@ body {
 	color: #E8E39C;
 	text-decoration: none;
 }
+.privacy-links {
+	margin-top: 5%;
+}
 
 /* Privacy  ************************************************************************************************************************* */
 .privacy {
@@ -35,7 +38,7 @@ body {
 	width: 70%;
 }
 h1 {
-	margin-left: 26%;
+	margin-left: 5%;
 }
 h3 {
 	margin-left: 3%;
