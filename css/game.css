@@ -71,25 +71,25 @@ html, body {
 .offer_text {
 	font-size: 18px;
 	margin-top: 2%;
+	margin-bottom: 3%;
 }
-
-.gym_pick {
+.game_pick {
 	display: block;
-	margin: 18% auto 0;
-	width: 100%;
+	width: 70%;
+	margin: 3% auto;
 }
 
 .store-links {
-	padding-top: 3%;
+	margin: 5% auto;
 }
 .apple-store-img {
 	display: block;
-	width: 17%;
+	width: 23%;
 	margin: auto 5%;
 }
 .google-store-img {
 	display: block;
-	width: 18.5%;
+	width: 25%;
 	margin: auto 5%;
 }
 
@@ -99,17 +99,19 @@ html, body {
 	padding-top: 3%;
 	background: #EFEDE4;
 }
-.two-row-screen, .tree-row-screen {
-	margin-top: 3%;
-}
-.game-screen {
-	width: 100%;
-}
 .gym-screen {
 	width: 100%;
 	height: 100%;
+	padding-top: 6%;
 }
+.gym-screen-div {
 
+}
+.fight-screen {
+	width: 100%;
+	height: 100%;
+	padding-top: 6%;
+}
 
 /* Footer ************************************************************************************************************************ */
 .footer {
@@ -142,20 +144,23 @@ Extra large ≥1200px .col-lg-
 		margin-top: 15%;
 	}
 	.img_logo {
-		width: 80%;
+		width: 70%;
 	}
-	.gym_pick {
+	.game_pick {
+		width: 100%;
 		margin-top: 3%;
 	}
-	.game-screen {
-		margin-top: 3%;
-		width: 80%;
+	.gym-screen {
+		width: 70%;
+	}
+	.fight-screen {
+		width: 90%;
 	}
 	.apple-store-img {
-		width: 38%;
+		width: 55.1%;
 	}
 	.google-store-img {
-		width: 40%;
+		width: 60%;
 	}
 }
 @media screen and (min-width: 576px) and (max-width: 767px) {
@@ -163,51 +168,53 @@ Extra large ≥1200px .col-lg-
 		margin-top: 12%;
 	}
 	.img_logo {
-		width: 80%;
+		width: 100%;
 	}
-	.gym_pick {
+	.game_pick {
+		width: 100%;
 		margin-top: 2%;
 	}
-	.game-screen {
-		margin-top: 3%;
-		width: 60%;
-	}
 	.gym-screen {
-		width: 60%;
+		width: 100%;
+	}
+	.fight-screen {
+		width: 100%;
 	}
 	.apple-store-img {
-		width: 33%;
+		width: 40.4%;
 	}
 	.google-store-img {
-		width: 35%;
+		width: 44%;
 	}
 }
 @media screen and (min-width: 768px) and (max-width: 991px) {
 	.offer {
 		margin-top: 12%;
 	}
-	.img_logo {
-		width: 65%;
+	.game_pick {
+		width: 90%;
+		margin-top: 5%;
 	}
-	.gym_pick {
-		margin-top: 2%;
+	.img_logo {
+		width: 70%;
+	}
+	.fight-screen {
 		width: 80%;
 	}
-	.apple-store-img {
-		width: 25%;
-	}
 	.google-store-img {
-		width: 27%;
+		width: 30%;
+	}
+	.apple-store-img {
+		width: 27.6%;
 	}
 }
 @media screen and (min-width: 992px) and (max-width: 1199px) {
-	.gym_pick {
-		margin: 25% auto 0;
-		width: 100%;
+	.game_pick {
+		
 	}
 	.apple-store-img {
-		width: 19%;
+		width: 23%;
 	}
 	.google-store-img {
-		width: 20.5%;
+		width: 25%;
 }
