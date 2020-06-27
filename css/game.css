@@ -99,18 +99,17 @@ html, body {
 	padding-top: 3%;
 	background: #77735B;
 }
-.gym-screen {
+.game-screen-port {
+	width: 100%;
+	height: 100%;
+}
+.game-screen-land {
 	width: 100%;
 	height: 100%;
 	padding-top: 6%;
 }
-.gym-screen-div {
-
-}
-.fight-screen, .miner-screen {
-	width: 100%;
-	height: 100%;
-	padding-top: 6%;
+.game-screen-line-port {
+	padding-top: 5%;
 }
 
 /* Footer ************************************************************************************************************************ */
@@ -150,11 +149,15 @@ Extra large ≥1200px .col-lg-
 		width: 100%;
 		margin-top: 3%;
 	}
-	.gym-screen {
+	.game-screen-port {
 		width: 70%;
+		padding-top: 5%;
 	}
-	.fight-screen, .miner-screen {
+	.game-screen-land {
 		width: 90%;
+	}
+	.game-screen-line-port {
+		margin-top: -4%;
 	}
 	.apple-store-img {
 		width: 55.1%;
@@ -174,10 +177,10 @@ Extra large ≥1200px .col-lg-
 		width: 100%;
 		margin-top: 2%;
 	}
-	.gym-screen {
+	.game-screen-port {
 		width: 100%;
 	}
-	.fight-screen, .miner-screen {
+	.game-screen-land {
 		width: 100%;
 	}
 	.apple-store-img {
@@ -198,7 +201,7 @@ Extra large ≥1200px .col-lg-
 	.img_logo {
 		width: 70%;
 	}
-	.fight-screen, .miner-screen {
+	.game-screen-land {
 		width: 80%;
 	}
 	.google-store-img {
@@ -218,3 +221,8 @@ Extra large ≥1200px .col-lg-
 	.google-store-img {
 		width: 25%;
 }
+
+
+
+
+
