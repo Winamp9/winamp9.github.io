@@ -19,7 +19,7 @@ header {
 	margin-top: 0%;
 }
 .img_logo {
-	margin-left: -5%; 
+	/*margin-left: 0%; */
 	width: 50%;
 }
 .menu_item {
@@ -66,14 +66,13 @@ header {
 	background: #77735B;
 }
 .game-pick {
-	margin-bottom: 5%;
+	margin-bottom: 3%;
+	width: 100%;
+	height: 100%;
 }
 .game-pick a {
 	width: 100%;
 	height: 100%;
-}
-.game-pick-line {
-	margin-top: -5%;
 }
 
 
@@ -153,7 +152,7 @@ Extra large ≥1200px .col-lg-
 		width: 75%;
 	}
 	.game {
-		width: 80% !important;
+		width: 100% !important;
 	}
 	.game-pick-line {
 		margin-top: 0%;
