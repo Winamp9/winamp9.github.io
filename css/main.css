@@ -96,10 +96,11 @@ img {
 /* Games  ************************************************************************************************************************* */
 .games {
 	background: #77735B;
-}
-.games .container {
 	padding-top: 4%;
 	padding-bottom: 2%;
+}
+.games .container {
+	
 }
 .game-pick {
 	margin-bottom: 3%;
