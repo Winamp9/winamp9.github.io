@@ -41,7 +41,7 @@ img {
 /* Header ********************************************************************************************************************* */
 .header {
 	background: #555134;
-	padding-bottom: 5%;
+	padding-bottom: 4%;
 	padding-top: 3%;
 }
 .logo {
@@ -70,10 +70,11 @@ img {
 }
 .offer_title {
 	color: #B0AD7B;
+	margin-bottom: 6%;
 }
 .offer_text {
 	font-size: 18px;
-	margin-top: 3%;
+	margin-top: -2%;
 	color: #B0AD7B;
 }
 .phone_pick {
@@ -93,16 +94,12 @@ img {
 
 
 /* Games  ************************************************************************************************************************* */
-
-.title {
-	font-size: 48px;
-	text-align: center;
-	margin: 5% auto 2%;
-	font-weight: bold;
-	color: #E8E39C;
-}
 .games {
 	background: #77735B;
+}
+.games .container {
+	padding-top: 4%;
+	padding-bottom: 2%;
 }
 .game-pick {
 	margin-bottom: 3%;
